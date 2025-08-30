@@ -1,7 +1,3 @@
-Her er en samlet guide, der kombinerer de to guides til en mere struktureret og omfattende ressource for både almindelige og avancerede brugere.
-
------
-
 ## Den komplette guide til sikkerhedskopiering af 1Password
 
 Dit 1Password-vault er et sikkert sted for alle dine digitale værdier. Selvom 1Password er ekstremt pålidelig, er den bedste beskyttelse mod uforudsete hændelser en regelmæssig, lokal sikkerhedskopi. Denne guide dækker, hvordan du opretter og sikkert opbevarer sikkerhedskopier af dine 1Password-data, med metoder til både almindelige og avancerede brugere.
