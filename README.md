@@ -98,3 +98,36 @@ Uanset om du eksporterer via CLI eller GUI, er det altafgørende at gemme dine s
       * Hav **1** kopi opbevaret et andet sted end din primære placering (f.eks. i en bankboks eller hos en betroet slægtning).
 
 Ved at kombinere 1Passwords stærke sikkerhed med disse backup-metoder, har du den bedst mulige beskyttelse af dine digitale værdier.
+
+## Sikker opbevaring af dit 1Password Emergency Kit
+
+Dit 1Password Emergency Kit er et kritisk dokument. Det indeholder din personlige **Secret Key** og dit **Master Password** – to essentielle komponenter for at få adgang til din 1Password-konto. Hvis du mister disse, kan du miste adgangen til alle dine data, og 1Password's supportafdeling kan ikke hjælpe dig med at gendanne den, da de ikke har adgang til din konto. Derfor er det altafgørende at opbevare mindst én kopi af dette dokument på et ekstremt sikkert sted, som kun du og eventuelt en betroet person har adgang til.
+
+### Eksempler på sikre opbevaringssteder
+
+Her er eksempler på, hvor du kan opbevare dit Emergency Kit for at maksimere sikkerheden:
+
+* **På papir i en bankboks:** Dette er en af de sikreste løsninger. Print en kopi af dit Emergency Kit, og opbevar den i en bankboks. En bankboks er beskyttet mod tyveri, brand og oversvømmelse og er kun tilgængelig for dig, eller en person du har givet fuldmagt til. Sørg for at informere en betroet person om placeringen, men ikke indholdet.
+* **Indelåst i et brandsikkert pengeskab:** Hvis du har et brandsikkert pengeskab derhjemme, er det et ideelt sted at opbevare en papirkopi. Denne løsning beskytter mod både tyveri og brand, hvilket er vigtigt, da papir er letfordærveligt.
+* **Krypteret og gemt på en USB-stick (IronKey):** Hvis du foretrækker en digital kopi, skal den være krypteret. Den bedste måde at gøre dette på er at gemme en digital kopi af Emergency Kit (f.eks. som en PDF) på en krypteret USB-stick, som en IronKey. Denne type USB-stick har indbygget hardwarekryptering og kræver et kodeord for at få adgang til dataene. Opbevar USB-sticken et sikkert sted, som f.eks. i et pengeskab eller en aflåst skuffe.
+* **Opbevaring hos en betroet advokat:** En advokat har tavshedspligt og professionelle procedurer for sikker opbevaring. I visse tilfælde kan det være en god idé at lade en advokat opbevare en forseglet kuvert med dit Emergency Kit i en pengeskab. Denne metode kan være relevant for folk, der er i forretning, eller som har et stort økonomisk incitament til at opbevare deres digitale værdier sikkert.
+
+### Hvad du IKKE skal gøre
+
+Lige så vigtigt som at vide, hvad du skal gøre, er det at kende de faldgruber, du skal undgå. Disse handlinger kan kompromittere din 1Password-konto og dine data:
+
+* **Gem det på din computer i klartekst:** At gemme dit Emergency Kit (f.eks. som en PDF eller skærmbillede) direkte på din computer er ekstremt risikabelt. Hvis din computer bliver hacket, får hackeren direkte adgang til din Secret Key og dit Master Password.
+* **Gem det i skyen (cloud storage) uden kryptering:** Selvom det er praktisk at gemme dokumenter i tjenester som Google Drive, Dropbox eller iCloud, må du **aldrig** gemme dit Emergency Kit i klartekst i skyen. Hvis din cloud-konto bliver kompromitteret, er dine 1Password-data i fare.
+* **Send det via e-mail:** E-mail er ikke en sikker kommunikationskanal. Data kan læses, opsnappes eller videresendes uautoriseret. At sende dit Emergency Kit til dig selv eller andre via e-mail er en af de farligste ting, du kan gøre.
+* **Opbevar det i din pung eller på din telefon:** En pung og en telefon er lette at miste, blive stjålet eller beskadige. Hvis dit Emergency Kit opbevares her, er det meget udsat for at falde i de forkerte hænder.
+* **Gem det samme sted som din computer:** Hvis du opbevarer din Emergency Kit i nærheden af din computer, er den udsat for de samme risici som computeren, f.eks. brand eller tyveri.
+
+### En god opbevaringsstrategi
+
+For at opnå den højeste sikkerhed, anbefales det at kombinere forskellige metoder:
+1.  **Print to papirkopier** af dit Emergency Kit.
+2.  **Opbevar den ene i en bankboks** eller et brandsikkert pengeskab derhjemme.
+3.  **Opbevar den anden kopi et andet fysisk sted**, f.eks. i et pengeskab hos et familiemedlem eller en betroet ven. Dette beskytter dig mod en katastrofe, der rammer dit primære sted (f.eks. en brand).
+
+Ved at følge disse retningslinjer, sikrer du, at du altid har en sikker og pålidelig adgang til dine 1Password-data, selv i nødstilfælde.
+
